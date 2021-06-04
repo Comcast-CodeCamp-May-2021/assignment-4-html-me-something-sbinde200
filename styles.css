@@ -1,1 +1,33 @@
 /* Write your CSS here! */
+
+
+p {
+    color: rgb(146, 43, 43);
+    font-size: large;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+    background-color: rgb(245, 204, 91);
+    padding: 100px 100px 100px 100px;
+}
+#disclaimer {
+    border: 3px solid rgb(216, 106, 17);
+}
+.opening {
+    color: rgb(146, 43, 43);;
+    text-align: center;
+    margin: 30px 100px 100px 50px;
+}
+
+h1 {
+    color: rgb(146, 43, 43);
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+
+
+
+
